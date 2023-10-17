@@ -110,8 +110,6 @@ const App = () => {
         result = 0;
         break;
     }
-    /* setCount(result);
-    console.log(count) */
     return result;
   }
 
